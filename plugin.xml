@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-firebase" version="1.0.0"
+<plugin id="bigbangtechnology-phonegapbuild-app-firebase-plugin" version="1.0.0"
 xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android">
-	<name>Google Firebase Plugin</name>
+	<name>bigbangtechnology android app phonegap build firebase plugin</name>
 
 	<license>MIT</license>
 
@@ -21,10 +21,10 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">@string/google_app_id</string>
+			<string name="google_app_id">1:304651691923:android:8741c7c5045591a9</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_api_key">@string/google_api_key</string>
+			<string name="google_api_key">AAAARu6n55M:APA91bHNyeCeTjUFkn5sOMP2z2Efp5xxMf_0A9983GvMx1_TIghxOMvNRz6Y2sEuA1tr3zJurpEKeE4exPeXJ6QXL_vbYQAMnrMYAs1WdDn0HnWEnBe2GiK7XZ0K-VjqZKpxRWEGARPFnyMSIVXCi-_-ZMw3yD8Rkg</string>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />
