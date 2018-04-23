@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnesson/cordova-plugin-firebase"
+    "url": "https://github.com/Divyaadz/cordova-plugin-firebase"
   },
   "name": "bigbangtechnology-phonegapbuild-app-firebase-plugin",
   "version": "1.0.0",
